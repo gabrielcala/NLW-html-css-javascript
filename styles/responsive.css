@@ -21,6 +21,9 @@
     #page-home main {
         align-items: center;
     }
+    #page-seach-results .cards {
+        grid-template-columns: 1fr;
+    }
 
 }
 
